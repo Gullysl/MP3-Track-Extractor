@@ -22,6 +22,8 @@ Make sure you have Python 3.x installed. Then, install the required libraries us
 
 ```
 pip install -r requirements.txt
+
+```
 Usage
 Run the Script:
 
