@@ -1,11 +1,4 @@
-# MP3-Track-Extractor
-Extracts the track number, name and length from folder of MP3 files.
 
-
-Certainly, here's a simple README template for your "MP3-Track-Extractor" GitHub repository:
-
-markdown
-Copy code
 # MP3-Track-Extractor
 
 MP3-Track-Extractor is a Python script that allows you to extract track information (title and duration) from a folder of MP3 files. It's a handy tool for organizing and cataloging your music collection or analyzing the contents of a directory.
