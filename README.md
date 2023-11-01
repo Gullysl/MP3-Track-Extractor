@@ -23,15 +23,13 @@ MP3-Track-Extractor is a Python script that allows you to extract track informat
    ```
    git clone https://github.com/your-username/MP3-Track-Extractor.git
    ```
-   Run the Script:
-   ```
-   python3 main.py
-   ```
-
 
 ## Navigate to the repository directory.
 Open a command prompt or terminal.
-Run the script with python mp3_track_extractor.py.
+Run the script with 
+   ```
+   python main.py.
+   ```
 Input File Location:
 
 ## Enter the file location of the folder containing your MP3 files.
