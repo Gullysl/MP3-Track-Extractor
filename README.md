@@ -37,7 +37,7 @@ It will also save this information to a file named mp3_info.txt in the same dire
 
 ## Requirements
 Python 3.x
-eyed3 library (install it with pip install eyed3)
+eyed3 library (install it with ``` pip install eyed3 ```)
 ## Contributing
 Contributions and improvements are welcome. Please feel free to fork the repository and submit pull requests.
 
