@@ -30,8 +30,6 @@ Run the script with
    ```
    python main.py.
    ```
-Input File Location:
-
 ## Enter the file location of the folder containing your MP3 files.
 The script will automatically remove any quotes and format the file path correctly.
 View Results:
@@ -42,7 +40,7 @@ It will also save this information to a file named mp3_info.txt in the same dire
 ## Requirements
 Python 3.x
 eyed3 library (install it with pip install eyed3)
-Contributing
+## Contributing
 Contributions and improvements are welcome. Please feel free to fork the repository and submit pull requests.
 
 ## License
