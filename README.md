@@ -45,4 +45,4 @@ Contributions and improvements are welcome. Please feel free to fork the reposit
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Gulliver Smith-Laing
+GullySL
